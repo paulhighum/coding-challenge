@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "Spam Coding Challenge Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulhighum/coding-challenge.git"
+  },
+  "author": "Paul Highum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulhighum/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/paulhighum/coding-challenge#readme"
+}
