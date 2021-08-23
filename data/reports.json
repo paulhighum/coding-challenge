@@ -10,7 +10,8 @@
                 "referenceId": "6706b3ba-bf36-4ad4-9b9d-4ebf4f4e2429",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -29,7 +30,8 @@
                 "referenceId": "130debb9-cb13-49eb-881e-86fd3244639c",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -48,7 +50,8 @@
                 "referenceId": "7274d582-9a1e-42bd-aa0f-f563904bfbab",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "INFRINGES_PROPERTY",
@@ -67,7 +70,8 @@
                 "referenceId": "7b4cf776-49d5-4c24-8837-153fc34d6d2c",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -86,7 +90,8 @@
                 "referenceId": "d9865001-c46e-4fd5-b810-4310fa41cf3d",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "VIOLATES_POLICIES",
@@ -105,7 +110,8 @@
                 "referenceId": "65156553-b340-413d-9e30-357fa00b14a5",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "INFRINGES_PROPERTY",
@@ -124,7 +130,8 @@
                 "referenceId": "d9865001-c46e-4fd5-b810-4310fa41cf3d",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "VIOLATES_POLICIES",
@@ -143,7 +150,8 @@
                 "referenceId": "df8168eb-5b9a-471f-bcb1-23644bbbb1b6",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -162,7 +170,8 @@
                 "referenceId": "823a8e90-44b3-47ad-8f80-3f0c4e3e2558",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -181,7 +190,8 @@
                 "referenceId": "b1774dd3-6d05-44e8-b344-1983e3fc2865",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -200,7 +210,8 @@
                 "referenceId": "823a8e90-44b3-47ad-8f80-3f0c4e3e2558",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -219,7 +230,8 @@
                 "referenceId": "08a54583-8cd0-44f3-a63d-7ed271524c42",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -238,7 +250,8 @@
                 "referenceId": "823a8e90-44b3-47ad-8f80-3f0c4e3e2558",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -257,7 +270,8 @@
                 "referenceId": "823a8e90-44b3-47ad-8f80-3f0c4e3e2558",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -276,7 +290,8 @@
                 "referenceId": "d9865001-c46e-4fd5-b810-4310fa41cf3d",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "VIOLATES_POLICIES",
@@ -295,7 +310,8 @@
                 "referenceId": "7dcd3cd0-e842-4b29-a711-442bfa5acd08",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "INFRINGES_PROPERTY",
@@ -314,7 +330,8 @@
                 "referenceId": "d9865001-c46e-4fd5-b810-4310fa41cf3d",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "VIOLATES_POLICIES",
@@ -333,7 +350,8 @@
                 "referenceId": "823a8e90-44b3-47ad-8f80-3f0c4e3e2558",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -352,7 +370,8 @@
                 "referenceId": "233d9a03-d68f-44ee-9977-bf9b4269c428",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -371,7 +390,8 @@
                 "referenceId": "7274d582-9a1e-42bd-aa0f-f563904bfbab",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "INFRINGES_PROPERTY",
@@ -390,7 +410,8 @@
                 "referenceId": "fb052ff2-a969-432f-b142-5ff7da1c4f40",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -409,7 +430,8 @@
                 "referenceId": "823a8e90-44b3-47ad-8f80-3f0c4e3e2558",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
@@ -428,7 +450,8 @@
                 "referenceId": "d9865001-c46e-4fd5-b810-4310fa41cf3d",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "VIOLATES_POLICIES",
@@ -447,7 +470,8 @@
                 "referenceId": "d9865001-c46e-4fd5-b810-4310fa41cf3d",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "VIOLATES_POLICIES",
@@ -466,7 +490,8 @@
                 "referenceId": "6906a7e4-f71f-4702-8cc7-6dfd77d3d7b8",
                 "referenceType": "REPORT"
             },
-            "state": "OPEN",
+            "viewState": "AVAILABLE",
+            "ticketState": "OPEN",
             "payload": {
                 "source": "REPORT",
                 "reportType": "SPAM",
