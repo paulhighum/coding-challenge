@@ -37,7 +37,7 @@ router.put('/:id/block', (req, res, next) => {
         res.send(reportData.elements)
     } else {
         console.log(`Unable to block report ${req.params.id}`)
-        res.send(`Error blocking report ${req.params.id}`)
+        res.status(404).json({error: `Unable to block report ${req.params.id}`})
     }
 });
 
@@ -53,9 +53,11 @@ router.put('/:id/resolve', (req, res, next) => {
     }
     
     if (resolveSuccess) {
-        res.send(`Report ${req.params.id} successfully resolved`)
+        console.log(`Report ${req.params.id} successfully resolved`)
+        res.send(reportData.elements)
     } else {
-        res.send(`Unable to resolve report ${req.params.id}`)
+        console.log(`Unable to resolve report ${req.params.id}`)
+        res.status(404).json({error: `Unable to resolve report ${req.params.id}`})
     }
 });
 
