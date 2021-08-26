@@ -47,7 +47,7 @@ router.put('/:id/resolve', (req, res, next) => {
 
     for (let i = 0; i < reportData.elements.length; i++) {
         if (reportData.elements[i].id === req.params.id) {
-            reportData.elements[i].ticketState = 'CLOSED';
+            reportData.elements[i].ticketState = 'CLOSED'
             resolveSuccess = true
         }
     }
